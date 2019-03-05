@@ -1,4 +1,4 @@
-# vue-stratotask
+# vue-invoice
 
 ## Project setup
 ```
