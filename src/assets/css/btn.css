@@ -1,0 +1,45 @@
+.btn {
+    text-transform: uppercase;
+    line-height: 1;
+}
+.btn-bold {
+    font-weight: 700;
+}
+.btn-m {
+    padding: 10px 25px;
+}
+
+.btn-jungle {
+    background-color: var(--color-jungle);
+    color: #fff;
+}
+.btn-jungle:hover {
+    background-color: var(--color-jungle-light);
+}
+.btn-jungle:active {
+    background-color: var(--color-jungle-dark);
+}
+
+.btn-icon {
+    font-family: FontAwesome;
+    margin: 3px;
+    color: var(--color-black);
+}
+.btn-icon--delete::before {
+    content: '\f1f8';
+}
+.btn-icon--edit::before {
+    content: '\f040';
+}
+.btn-icon--save::before {
+    content: '\f00c';
+}
+.btn-icon--cancel::before {
+    content: '\f00d';
+}
+
+@media only screen and (max-width: 767px) {
+    .btn {
+        font-size: 12px;
+    }
+}

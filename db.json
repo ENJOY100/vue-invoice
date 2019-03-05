@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 8734225274,
+      "name": "Pizza",
+      "quantity": "5",
+      "price": "15",
+      "is_editing": false
+    },
+    {
+      "id": 4898382416,
+      "name": "Beer",
+      "quantity": "15",
+      "price": "20",
+      "is_editing": false
+    },
+    {
+      "id": 6153859200,
+      "name": "Sushi",
+      "quantity": "25",
+      "price": "55",
+      "is_editing": false
+    },
+    {
+      "id": 3328836657,
+      "name": "Chicken",
+      "quantity": "50",
+      "price": "25",
+      "is_editing": false
+    },
+    {
+      "id": 5763079625,
+      "name": "Salad",
+      "quantity": "5",
+      "price": "25",
+      "is_editing": false
+    }
+  ]
+}
